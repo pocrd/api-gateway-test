@@ -15,7 +15,7 @@
     <dependencies>
         <dependency>
             <groupId>net.pocrd</groupId>
-            <artifactId>api-util</artifactId>
+            <artifactId>apigw-constraint</artifactId>
         </dependency>
     </dependencies>
     <build>

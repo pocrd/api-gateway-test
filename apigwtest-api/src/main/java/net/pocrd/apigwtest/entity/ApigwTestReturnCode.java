@@ -1,6 +1,6 @@
 package net.pocrd.apigwtest.entity;
 
-import net.pocrd.entity.AbstractReturnCode;
+import net.pocrd.define.AbstractReturnCode;
 
 public class ApigwTestReturnCode extends AbstractReturnCode {
     protected ApigwTestReturnCode(String desc, int code) {

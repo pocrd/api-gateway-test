@@ -11,7 +11,7 @@ import net.pocrd.entity.ServiceRuntimeException;
 import net.pocrd.responseEntity.CreditNotification;
 import net.pocrd.responseEntity.JSONString;
 import net.pocrd.responseEntity.MessageNotification;
-import net.pocrd.util.RawString;
+import net.pocrd.responseEntity.RawString;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.w3c.dom.Document;

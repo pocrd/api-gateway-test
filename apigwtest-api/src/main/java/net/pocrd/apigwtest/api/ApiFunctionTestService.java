@@ -8,7 +8,7 @@ import net.pocrd.define.ApiOpenState;
 import net.pocrd.define.AutowireableParameter;
 import net.pocrd.define.SecurityType;
 import net.pocrd.responseEntity.JSONString;
-import net.pocrd.util.RawString;
+import net.pocrd.responseEntity.RawString;
 
 @ApiGroup(name = "apitest", minCode = 1, maxCode = 1000000, codeDefine = ApigwTestReturnCode.class, owner = "sunji180")
 public interface ApiFunctionTestService {
