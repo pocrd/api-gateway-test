@@ -7,7 +7,7 @@
         </filter>
         <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
             <!--<FileNamePattern>/usr/admin/logs/apitest/info/info-%d{yyyy-MM-dd}-%i.log</FileNamePattern>-->
-            <FileNamePattern>/home/admin/logs/apigwtest/info/info-%d{yyyy-MM-dd}-%i.log</FileNamePattern>
+            <FileNamePattern>/tmp/logs/apigwtest/info/info-%d{yyyy-MM-dd}-%i.log</FileNamePattern>
             <timeBasedFileNamingAndTriggeringPolicy
                     class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
                 <maxFileSize>20MB</maxFileSize>
